@@ -1,0 +1,15 @@
+{
+  "name": "class11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jukebox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "daddy-jokes": "^1.0.8",
+    "is-odd": "^3.0.1"
+  }
+}
